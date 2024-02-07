@@ -2,7 +2,7 @@
 ----
 
 I am an IT solutions consultant, a monitoring enthusaist,
-and a instructor. My journey has equipped me with a robust understanding 
+and an instructor. My journey has equipped me with a robust understanding 
 of the various technologies and tools such as 
 Kubernetes, Docker, Prometheus, Grafana, and Bash.
 
