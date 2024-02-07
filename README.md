@@ -1,6 +1,5 @@
-## Hi, here is Mehrshad! 👨‍🏫
+# Hi, I am Mehrshad! 👨‍🏫
 ----
-![](https://komarev.com/ghpvc/?username=mehr74)
 
 I am a IT Solutions consultant, a monitoring enthusaist,
 and a trainer. My journey has equipped me with a robust understanding 
@@ -17,4 +16,7 @@ and efficient operational experience.
 
 ## Support Me 🚀
 
-[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/mirzamehrshad)
+[
+  ![Donate with Paypal]
+  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
+](https://www.paypal.me/mirzamehrshad)
