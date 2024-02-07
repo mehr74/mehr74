@@ -1,7 +1,7 @@
 # Hi, I am Mehrshad! 👨‍🏫
 ----
 
-I am an IT Solutions Consultant, a monitoring enthusaist,
+I am an IT solutions consultant, a monitoring enthusaist,
 and a trainer. My journey has equipped me with a robust understanding 
 of the various technologies and tools such as 
 Kubernetes, Docker, Prometheus, Grafana, and Bash.
