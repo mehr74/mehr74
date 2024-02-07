@@ -8,10 +8,9 @@ Kubernetes, Docker, Prometheus, Grafana, and Bash.
 
 My goal is to implement and fine-tune monitoring systems for my 
 clients to ensure optimal service performance. 
-If you are looking for a monitoring expert, let's collaborate to 
-elevate your system's observability and ensure a seamless and efficient 
-operational experience. Contact me to discuss your requirements and 
-find the best monitoring solution for your needs.
+If you are looking for a monitoring expert, contact me to discuss 
+your requirements and find the best monitoring solution for 
+your needs.
 
 ## Contact Me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrshad-lotfi)
