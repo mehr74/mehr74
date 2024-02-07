@@ -10,4 +10,4 @@ clients to ensure optimal service performance. Let us collaborate
 together to elevate your system's observability and ensure a seamless 
 and efficient operational experience.
 
-[![Mehrshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrshad&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehrshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehr74&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
