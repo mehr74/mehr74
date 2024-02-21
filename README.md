@@ -19,12 +19,3 @@ your needs.
 
 [![Mehrshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehr74&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-## Support Me 🚀
-
-[
-  ![Donate with Paypal](https://raw.githubusercontent.com/mehr74/paypal-donate-button/master/paypal-donate-button.png)
-](https://www.paypal.me/mirzamehrshad)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mehr74)
