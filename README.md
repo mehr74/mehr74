@@ -14,18 +14,11 @@ your needs.
 
 ## Contact Me 
 
-[
-  ![Optiop](https://img.shields.io/badge/Linkedin-mehrshad-blue)
-](https://www.linkedin.com/in/mehrshad-lotfi)
+
 [
   ![Optiop](https://img.shields.io/badge/appointment-book-blue)
 ](https://calendar.app.google/q3fs63UeZTsCgyeA6)
-[
-  ![Optiop](https://img.shields.io/badge/work-optiop-blue)
-](https://optiop.org/en/)
-[
-  ![Optiop](https://img.shields.io/badge/webpage-mehrshad.io-blue)
-](https://mehrshad.io)
+
 
 [![Mehrshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehr74&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
