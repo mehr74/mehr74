@@ -14,8 +14,9 @@ your needs.
 
 ## Contact Me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrshad-lotfi)
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/mehrshadl)
-
+[
+  ![Optiop](https://img.shields.io/badge/appointment-book-blue)
+](https://calendar.app.google/q3fs63UeZTsCgyeA6)
 
 [![Mehrshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehr74&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
