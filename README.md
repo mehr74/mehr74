@@ -13,10 +13,19 @@ your requirements and find the best monitoring solution for
 your needs.
 
 ## Contact Me 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrshad-lotfi)
+
+[
+  ![Optiop](https://img.shields.io/badge/Linkedin-"/in/mehrshad-lotfi"-blue)
+](https://www.linkedin.com/in/mehrshad-lotfi)
 [
   ![Optiop](https://img.shields.io/badge/appointment-book-blue)
 ](https://calendar.app.google/q3fs63UeZTsCgyeA6)
+[
+  ![Optiop](https://img.shields.io/badge/work-optiop-blue)
+](https://optiop.org/en/)
+[
+  ![Optiop](https://img.shields.io/badge/webpage-mehrshad.io-blue)
+](https://mehrshad.io)
 
 [![Mehrshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehr74&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
