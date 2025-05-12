@@ -15,7 +15,7 @@ your needs.
 ## Contact Me 
 
 [
-  ![Optiop](https://img.shields.io/badge/Linkedin-"/in/mehrshad-lotfi"-blue)
+  ![Optiop](https://img.shields.io/badge/Linkedin-mehrshad-blue)
 ](https://www.linkedin.com/in/mehrshad-lotfi)
 [
   ![Optiop](https://img.shields.io/badge/appointment-book-blue)
