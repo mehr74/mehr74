@@ -16,7 +16,7 @@ your needs.
 
 [
   ![Optiop](https://img.shields.io/badge/website-optiop-blue)
-](https://calendar.app.google/q3fs63UeZTsCgyeA6)
+](https://optiop.org)
 [
   ![Optiop](https://img.shields.io/badge/appointment-book-green)
 ](https://calendar.app.google/q3fs63UeZTsCgyeA6)
