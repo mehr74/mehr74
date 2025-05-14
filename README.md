@@ -14,9 +14,11 @@ your needs.
 
 ## Contact Me 
 
-
 [
-  ![Optiop](https://img.shields.io/badge/appointment-book-blue)
+  ![Optiop](https://img.shields.io/badge/website-optiop-blue)
+](https://calendar.app.google/q3fs63UeZTsCgyeA6)
+[
+  ![Optiop](https://img.shields.io/badge/appointment-book-green)
 ](https://calendar.app.google/q3fs63UeZTsCgyeA6)
 
 
